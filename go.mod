@@ -1,4 +1,4 @@
-module github.com/eiannone/keyboard
+module github.com/coreyrobinsondev/keyboard
 
 go 1.18
 
